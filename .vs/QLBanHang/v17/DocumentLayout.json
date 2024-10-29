@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\C#-Desktop\\QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|d:\\document\\c#-desktop\\qlbanhang\\qlbanhang\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|D:\\Document\\C#-Desktop\\QLBanHang\\qlbanhang\\forms\\frmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FEB37-66A1-4FE8-B764-A30B47C58F17}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\forms\\frmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmKhachHang.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmKhachHang.cs",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmKhachHang.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:34:33.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmKhachHang.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:31:26.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmHoaDon.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmHoaDon.cs",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmHoaDon.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAkwPgBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:40:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmHoaDon.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:15:49.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmDangNhap.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmDangNhap.cs",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmDangNhap.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:32:33.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmDangNhap.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:28:46.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Model\\User.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Model\\User.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Model\\User.cs",
+              "RelativeToolTip": "QLBanHang\\Model\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:24:42.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmSanPham.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmSanPham.cs",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmSanPham.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAIwMoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmSanPham.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmChatLieu.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmChatLieu.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmChatLieu.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmChatLieu.cs",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmChatLieu.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\FormMain.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\FormMain.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\FormMain.cs",
+              "RelativeToolTip": "QLBanHang\\FormMain.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmChatLieu.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmChatLieu.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Forms\\frmChatLieu.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Forms\\frmChatLieu.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\Forms\\frmChatLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\FormMain.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\FormMain.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\FormMain.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Classes\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Classes\\DataProcesser.cs",
+              "ToolTip": "D:\\Document\\C#-Desktop\\QLBanHang\\QLBanHang\\Classes\\DataProcesser.cs",
+              "RelativeToolTip": "QLBanHang\\Classes\\DataProcesser.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:51:57.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
